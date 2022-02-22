@@ -4,7 +4,8 @@ My name is Kenzie MacKinnon I am a 5th neuroscience student 🧠 at Dalhousie Un
 
 ## My Projects here on Github
 
-- [Neovim and iTerm2 workflow](https://github.com/Kenmac589/alfred-iTerm-Neovim) not anything special in terms of programming but is nice for launching file with alfred.
+- [myShellScipts](https://github.com/Kenmac589/myShellScripts) a collection of the scripts 
+- [Neovim and iTerm2 workflow](https://github.com/Kenmac589/alfred-iTerm-Neovim) not anything special in terms of programming but is nice for launching file with [Alfred](https://www.alfredapp.com/).
 
 ## Some of the other work I've done
 
@@ -23,6 +24,7 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 - [Bitwarden](https://bitwarden.com/) excellent password manager to use across devices.
 - [IINA](https://iina.io/) media player made for macos.
 - [UTM](https://mac.getutm.app/) MacOS centric virtual machine app to run windows and linux distros.
+- [Karabiner](https://github.com/pqrs-org/Karabiner-Elements) excellent utility for keyboard customization.
 
 ### Just free MacOS apps I swear by
 
@@ -33,8 +35,9 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 
 - [Neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability.
 - [Tmux](https://github.com/tmux/tmux) a terminal multiplexer I use to manage windows.
-- [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.
- 
+- [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.  I use it in conjuction with tmux, neovim and rga.
+- [rga](https://github.com/phiresky/ripgrep-all) is [ripgrep](https://github.com/BurntSushi/ripgrep) for most commonly used filetypes.  I use it in conjunction with [fzf](https://github.com/junegunn/fzf) to search all document in my directory for key words when doing research.
+
 <b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -45,4 +48,4 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 [twitter]: https://twitter.com/MacKinnonKenzie
 [linkedin]: https://www.linkedin.com/in/kenzie-mackinnon-7a75501b6/
 
-If you have any Queries or Suggestions, feel free to reach out to me.
+If you have any queries or suggestions, feel free to reach out to me.
