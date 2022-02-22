@@ -34,7 +34,6 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 - [Neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability.
 - [Tmux](https://github.com/tmux/tmux) a terminal multiplexer I use to manage windows.
 - [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.
-- [rga]
  
 <b><i>Let's connect! Find me on the web.</i></b>
 
