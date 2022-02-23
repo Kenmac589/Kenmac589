@@ -4,7 +4,7 @@ My name is Kenzie MacKinnon I am a 5th neuroscience student 🧠 at Dalhousie Un
 
 ## My Projects here on Github
 
-- [myShellScipts](https://github.com/Kenmac589/myShellScripts) a collection of the scripts 
+- [myShellScipts](https://github.com/Kenmac589/myShellScripts) a collection of the scripts I use everyday.
 - [Neovim and iTerm2 workflow](https://github.com/Kenmac589/alfred-iTerm-Neovim) not anything special in terms of programming but is nice for launching file with [Alfred](https://www.alfredapp.com/).
 
 ## Some of the other work I've done
@@ -19,6 +19,8 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 
 - [Rectangle](https://github.com/rxhanson/Rectangle) is a very powerful window manager with widow snapping similar to windows.
 - [Skim](https://skim-app.sourceforge.io/) is an excellent pdf reader with great annotation features.
+- [Zotero](https://www.zotero.org/) citation manager that I use generally as it has great integration with lots of apps such as LibreOffice, Word and Google docs.
+- [Bibdesk](https://bibdesk.sourceforge.io/) MacOS citation managers that works with .bib files, which I like using when using separate bibliographies on a paper by paper basis.
 - [iTerm2](https://iterm2.com/) is an excellent terminal emulator with many functions not present in apple terminal.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl#readme) can control the brightness of all screens you are using.  Great if using a monitor.
 - [Bitwarden](https://bitwarden.com/) excellent password manager to use across devices.
@@ -35,8 +37,9 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 
 - [Neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability.
 - [Tmux](https://github.com/tmux/tmux) a terminal multiplexer I use to manage windows.
-- [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.  I use it in conjuction with tmux, neovim and rga.
+- [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.  I use it in conjunction with tmux, neovim and rga.
 - [rga](https://github.com/phiresky/ripgrep-all) is [ripgrep](https://github.com/BurntSushi/ripgrep) for most commonly used filetypes.  I use it in conjunction with [fzf](https://github.com/junegunn/fzf) to search all document in my directory for key words when doing research.
+- [Pandoc](https://pandoc.org/) is a tool I use to convert markdown files to various file types for submission.
 
 <b><i>Let's connect! Find me on the web.</i></b>
 
