@@ -38,7 +38,7 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 - [Neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability.
 - [Tmux](https://github.com/tmux/tmux) a terminal multiplexer I use to manage windows.
 - [fzf](https://github.com/junegunn/fzf) a command line fuzzy finder.  I use it in conjunction with tmux, neovim and rga.
-- [rga](https://github.com/phiresky/ripgrep-all) is [ripgrep](https://github.com/BurntSushi/ripgrep) for most commonly used filetypes.  I use it in conjunction with [fzf](https://github.com/junegunn/fzf) to search all document in my directory for key words when doing research.
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) is [ripgrep](https://github.com/BurntSushi/ripgrep) for most commonly used filetypes.  I use it in conjunction with [fzf](https://github.com/junegunn/fzf) to search all document in my directory for key words when doing research.
 - [Pandoc](https://pandoc.org/) is a tool I use to convert markdown files to various file types for submission.
 
 <b><i>Let's connect! Find me on the web.</i></b>
