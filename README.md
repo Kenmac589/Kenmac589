@@ -27,6 +27,7 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 - [IINA](https://iina.io/) media player made for macos.
 - [UTM](https://mac.getutm.app/) MacOS centric virtual machine app to run windows and linux distros.
 - [Karabiner](https://github.com/pqrs-org/Karabiner-Elements) excellent utility for keyboard customization.
+- [Amethyst](https://github.com/ianyh/Amethyst)Automatic tiling window manager for macOS à la xmonad.
 
 ### Just free MacOS apps I swear by
 
