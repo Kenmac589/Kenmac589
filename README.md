@@ -52,4 +52,4 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 [twitter]: https://twitter.com/MacKinnonKenzie
 [linkedin]: https://www.linkedin.com/in/kenzie-mackinnon-7a75501b6/
 
-# If you have any queries or suggestions, feel free to reach out to me.
+ If you have any queries or suggestions, feel free to reach out to me.
