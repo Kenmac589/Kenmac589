@@ -15,7 +15,7 @@ My name is Kenzie MacKinnon I am a 5th neuroscience student 🧠 at Dalhousie Un
 
 A good chunk of the apps here can be installed as casks by [Homebrew](https://brew.sh/) with `brew install --cask <app name>`.
 
-### FOSS MacOS apps I swear by
+### FOSS MacOS apps
 
 - [Rectangle](https://github.com/rxhanson/Rectangle) is a very powerful window manager with widow snapping similar to windows.
 - [Skim](https://skim-app.sourceforge.io/) is an excellent pdf reader with great annotation features.
@@ -29,7 +29,7 @@ A good chunk of the apps here can be installed as casks by [Homebrew](https://br
 - [Karabiner](https://github.com/pqrs-org/Karabiner-Elements) excellent utility for keyboard customization.
 - [Amethyst](https://github.com/ianyh/Amethyst) An automatic tiling window manager made for MacOS.
 
-### Just free MacOS apps I swear by
+### Just free MacOS apps
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) is a great utility for completely deleting apps on your computer.
 - [CheastSheet](https://www.mediaatelier.com/CheatSheet/) holding down the command ⌘ key will show you all the available keyboard shortcuts for an app.
