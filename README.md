@@ -1,10 +1,10 @@
 # My README
 
-My name is Kenzie MacKinnon I am a 5th neuroscience student 🧠 at Dalhousie University.  My interests include Brain Computer Interfaces as well as open source tools for academic writing.  Done classes in Java and computer modelling of equations in python.
+My name is Kenzie MacKinnon I am a 2nd year Masters Student in the Department of Medical Neuroscience at Dalhousie University.  My interests include Brain Computer Interfaces as well as open source tools for academic writing.  Done classes in Java and computer modelling of equations in python.
 
 ## My Projects here on Github
 
-- [myShellScipts](https://github.com/Kenmac589/myShellScripts) a collection of the scripts I use everyday.
+- [lab-analysis](https://github.com/Kenmac589/lab-analysis) (WIP) a couple scripts with functions relating to analysis I am doing in my Masters degree looking at Electromyographic (EMG) and Kinematic data. 
 - [Neovim and iTerm2 workflow](https://github.com/Kenmac589/alfred-iTerm-Neovim) not anything special in terms of programming but is nice for launching file with [Alfred](https://www.alfredapp.com/).
 
 ## Some of the other work I've done
