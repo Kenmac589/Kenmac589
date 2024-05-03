@@ -12,5 +12,3 @@ My name is Kenzie MacKinnon I'm a 2nd year Masters Student in the Department of 
 
 [twitter]: https://twitter.com/MacKinnonKenzie
 [linkedin]: https://www.linkedin.com/in/kenzie-mackinnon-7a75501b6/
-
- If you have any queries or suggestions, feel free to reach out to me.
