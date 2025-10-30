@@ -1,6 +1,6 @@
 # My README
 
-My name is Kenzie MacKinnon I'm a 2nd year Masters Student in the Department of Medical Neuroscience at Dalhousie University. My interests include locomotion and computational neuroscience.
+My name is Kenzie MacKinnon I'm a 3rd year PhD Student in the Department of Medical Neuroscience at Dalhousie University. My interests include locomotion and computational neuroscience.
 
 
 <b><i>Let's connect! Find me on the web.</i></b>
